@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { VERIFIED_PHYSIOS } from '../constants';
+import { VERIFIED_PHYSIOS } from '../../constants';
 import { ChevronRight } from 'lucide-react';
 
 interface PhysioLoginProps {

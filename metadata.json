@@ -1,0 +1,9 @@
+{
+  "name": "PhysioAI Monitor",
+  "description": "Intelligent physiotherapy monitoring with sensorless motion tracking and AI-driven clinical analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
